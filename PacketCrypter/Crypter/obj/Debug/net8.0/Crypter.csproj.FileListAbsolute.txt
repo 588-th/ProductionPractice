@@ -1,0 +1,14 @@
+D:\Desktop\PacketCrypter\Crypter\bin\Debug\net8.0\Crypter.exe
+D:\Desktop\PacketCrypter\Crypter\bin\Debug\net8.0\Crypter.deps.json
+D:\Desktop\PacketCrypter\Crypter\bin\Debug\net8.0\Crypter.runtimeconfig.json
+D:\Desktop\PacketCrypter\Crypter\bin\Debug\net8.0\Crypter.dll
+D:\Desktop\PacketCrypter\Crypter\bin\Debug\net8.0\Crypter.pdb
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.AssemblyInfoInputs.cache
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.AssemblyInfo.cs
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.csproj.CoreCompileInputs.cache
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.dll
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\refint\Crypter.dll
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.pdb
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\Crypter.genruntimeconfig.cache
+D:\Desktop\PacketCrypter\Crypter\obj\Debug\net8.0\ref\Crypter.dll
